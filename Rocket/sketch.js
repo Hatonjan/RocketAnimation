@@ -137,7 +137,7 @@ function setup() {
 				fistStage.updateParticles(); // particle emitter
 				fistStage.y = y + 5;
 				fistStage.x = x + 5;
-			} 
+			}  
 			// Second stage ignition animation
 			if (this.success) {
 				secondStage.updateParticles(); // particle emitter
