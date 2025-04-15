@@ -38,12 +38,13 @@ Use the Left or Right Arrow keys to adjust the rocket's horizontal position duri
 Landing:
 Watch the rocket gradually decelerate and land on the platform!
 
-Project Structure
-|-- index.html            // Main HTML file
-|-- p5.min.js             // Compressed version of the p5.js library
-|-- p5.sound.min.js       // Compressed version of the p5.js sound library
-|-- sketch.js             // Core p5.js script containing the simulation logic
-
+<p>
+ Project Structure
+ |-- index.html            // Main HTML file
+ |-- p5.min.js             // Compressed version of the p5.js library
+ |-- p5.sound.min.js       // Compressed version of the p5.js sound library
+ |-- sketch.js             // Core p5.js script containing the simulation logic
+</p>
 
 
 Key Concepts Demonstrated
