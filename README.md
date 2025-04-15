@@ -21,11 +21,13 @@ Precise landing mechanics with distance calculations and gradual speed adjustmen
 Installation
 To run this project locally:
 Clone this repository:
+```Bash
  git clone https://github.com/Hatonjan/RocketAnimation.git
-
+```
 Open the project directory:
+```Bach
  cd RocketAnimation
-
+```
 Open the index.html file in your browser to view the simulation.
 
 How to Play
@@ -38,9 +40,9 @@ Watch the rocket gradually decelerate and land on the platform!
 
 Project Structure
 |-- index.html            // Main HTML file
-|-- p5.min.js              // Compressed version of the p5.js library
-|-- p5.sound.min.js   // Compressed version of the p5.js sound library
-|-- sketch.js              // Core p5.js script containing the simulation logic
+|-- p5.min.js             // Compressed version of the p5.js library
+|-- p5.sound.min.js       // Compressed version of the p5.js sound library
+|-- sketch.js             // Core p5.js script containing the simulation logic
 
 
 
